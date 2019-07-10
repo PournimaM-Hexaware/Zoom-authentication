@@ -1,0 +1,14 @@
+{
+  "name": "zoom-browser-sdk",
+  "version": "7.1.16",
+  "description": "ZoOm Browser SDK & Sample Code",
+  "main": "ZoomAuthentication.js",
+  "scripts": {
+    "zoom-browser-sdk": "D:/PournimaProjects/ZoomAuthentication-web-7.1.16/node_modules/http-server/bin/http-server -a localhost -p 8000 -c-1"
+  },
+  "author": "FaceTec, Inc.",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-server": "^0.11.1"
+  }
+}
